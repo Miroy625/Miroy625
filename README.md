@@ -19,4 +19,4 @@
 
 ## Contact Me
 
-Feel free to reach out to me via [discord] miroy625 if you have any questions or just want to connect!
+Feel free to reach out to me via [discord] `miroy625` if you have any questions or just want to connect!
