@@ -14,8 +14,6 @@
 ## Certifications
 
 - **Google Cybersecurity Professional Certification**
-  - *Status:* In Progress
-  - *Expected Completion:* soon :)
 
 ## Contact Me
 
