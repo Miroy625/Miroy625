@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <div align="center">
-  <a href="https://github.com/miroy625">
+  <a href="https://bento.me/miroy">
     <img width="100%" src="https://cardivo.vercel.app/api?name=Chize%20Roy&description=Security%20Researcher%20focused%20on%20protecting%20and%20strengthening%20digital%20infrastructures.&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F168634343%3Fv%3D4&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&linkedin=miroy625&github=miroy625&twitter=miroy625&instagram=miroy26" alt="Chize Roy's Card" />
   </a>
 </div>
